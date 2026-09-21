@@ -1,0 +1,342 @@
+{
+  "role": "Head of Operations",
+  "market": "Germany",
+  "generated_at": "2026-09-21",
+  "target_employers": [
+    {
+      "name": "SAP",
+      "industry": "Enterprise software",
+      "sponsorship_signal": "Global careers site publishes Germany roles in English; employment is via a qualifying German contract that can support an EU Blue Card application under §18g AufenthG",
+      "notes": "Walldorf HQ plus Berlin/Munich hubs. Confirm whether the posted role is classified as an ICT service manager (ISCO 133) versus a general managing-director code."
+    },
+    {
+      "name": "Siemens",
+      "industry": "Industrial technology",
+      "sponsorship_signal": "Public international careers portal and documented skilled-worker hiring in Germany",
+      "notes": "Munich HQ. Operations leadership may map to manufacturing/supply managers (ISCO 132) if duties are production or distribution, which is a shortage group."
+    },
+    {
+      "name": "Zalando",
+      "industry": "E-commerce / marketplace",
+      "sponsorship_signal": "Berlin HQ careers pages list English-language operations, logistics and product roles",
+      "notes": "Useful COO/ops target; classification is duty-dependent (logistics/distribution vs. corporate general management)."
+    },
+    {
+      "name": "Delivery Hero",
+      "industry": "Delivery platforms",
+      "sponsorship_signal": "Berlin HQ; public careers site advertises international professional roles",
+      "notes": "Marketplace operations and logistics leadership are closer to ISCO 1324 (supply/distribution managers) than to a generic COO title."
+    },
+    {
+      "name": "HelloFresh",
+      "industry": "Consumer / meal kits",
+      "sponsorship_signal": "Berlin HQ English-language careers site",
+      "notes": "Fulfilment and supply-chain operations roles are a better shortage-occupation fit than a pure corporate COO title."
+    },
+    {
+      "name": "Celonis",
+      "industry": "Process mining / enterprise software",
+      "sponsorship_signal": "Munich HQ; public careers site for international professional hiring",
+      "notes": "Product and engineering-adjacent leadership more likely to sit in ISCO 133 or 25 (shortage groups) than a generalist ops title."
+    },
+    {
+      "name": "Personio",
+      "industry": "HR / SaaS",
+      "sponsorship_signal": "Munich HQ English-language careers pages",
+      "notes": "Scale-up operating cadence roles; confirm job description against ISCO 133 vs 121 (business services and administration managers, not a shortage group)."
+    },
+    {
+      "name": "N26",
+      "industry": "Fintech",
+      "sponsorship_signal": "Berlin HQ; English-language professional hiring is public on the careers site",
+      "notes": "Regulated-industry ops (risk, compliance, banking operations) needs a duty-level ISCO check; do not assume shortage status from the job title alone."
+    },
+    {
+      "name": "Robert Bosch GmbH",
+      "industry": "Industrial / automotive technology",
+      "sponsorship_signal": "Large German employer with a public international careers portal",
+      "notes": "Manufacturing, supply-chain and plant operations map more cleanly to ISCO 132 than corporate COO."
+    },
+    {
+      "name": "Deutsche Telekom",
+      "industry": "Telecommunications",
+      "sponsorship_signal": "Public German and international careers pages for professional and leadership roles",
+      "notes": "ICT service management (ISCO 133) is on the shortage list; generalist COO is not automatically."
+    },
+    {
+      "name": "AUTO1 Group",
+      "industry": "Automotive marketplace",
+      "sponsorship_signal": "Berlin HQ careers site lists English-language operations and product roles",
+      "notes": "Marketplace ops / logistics vs. product track is the same two-track split this brief is designed around."
+    },
+    {
+      "name": "Flix",
+      "industry": "Mobility",
+      "sponsorship_signal": "Munich HQ; public English-language careers pages",
+      "notes": "Network and operations leadership may sit closer to ISCO 1324 (distribution/transport managers)."
+    }
+  ],
+  "regulatory_findings": [
+    {
+      "threshold_or_rule": "EU Blue Card legal basis",
+      "value": "§ 18g AufenthG (Residence Act), transposing Directive (EU) 2021/1883",
+      "citation": {
+        "claim": "The EU Blue Card in Germany is issued under Section 18g of the Residence Act.",
+        "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    },
+    {
+      "threshold_or_rule": "Standard EU Blue Card gross annual salary (2026)",
+      "value": "€50,700 (50% of the general pension-insurance contribution assessment ceiling)",
+      "citation": {
+        "claim": "As of 2026, a qualifying German job must pay a gross annual salary of at least €50,700 for the standard EU Blue Card.",
+        "source": "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    },
+    {
+      "threshold_or_rule": "Reduced EU Blue Card gross annual salary (2026)",
+      "value": "€45,934.20 for shortage occupations, recent graduates (degree ≤3 years), and qualifying IT specialists; Federal Employment Agency (BA) approval generally required",
+      "citation": {
+        "claim": "Shortage occupations, recent graduates and qualifying IT specialists can obtain an EU Blue Card at a lower 2026 gross annual salary of at least €45,934.20 if the BA has approved the employment.",
+        "source": "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    },
+    {
+      "threshold_or_rule": "Shortage-occupation ISCO-08 groups (§18g (1))",
+      "value": "Groups 132, 133, 134, 21, 221, 222, 225, 226, 23 or 25",
+      "citation": {
+        "claim": "The reduced threshold applies where the occupation belongs to ISCO-08 groups 132, 133, 134, 21, 221, 222, 225, 226, 23 or 25, or where the academic degree was obtained no more than three years before the Blue Card application.",
+        "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    },
+    {
+      "threshold_or_rule": "IT specialists without a formal degree (§18g (2))",
+      "value": "ISCO-08 groups 133 or 25, with ≥3 years of comparable experience in the last 7 years, BA approval, reduced salary threshold",
+      "citation": {
+        "claim": "Non-degree IT specialists may qualify for a Blue Card in ISCO groups 133 or 25 if they have at least three years of relevant university-level experience in the last seven years.",
+        "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    },
+    {
+      "threshold_or_rule": "COO / Head of Operations classification (two-track)",
+      "value": "Generic COO/Head of Operations is often ISCO 1120 or 121 (not on the shortage list). Shortage applies only if duties are 132 (manufacturing/mining/construction/distribution managers), 133 (ICT service managers) or 134 (professional services managers).",
+      "citation": {
+        "claim": "Whether Head of Operations uses the reduced 2026 threshold is a duty-level ISCO classification question, not a job-title question. Product/ICT tracks more often land in 133 or 25.",
+        "source": "https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/2024_Mangelberufe_EN.pdf",
+        "confidence": "medium",
+        "is_synthetic": false
+      }
+    },
+    {
+      "threshold_or_rule": "Contract duration and qualification match",
+      "value": "Employment of at least six months; job must match the academic qualification (licence required for regulated professions)",
+      "citation": {
+        "claim": "Make it in Germany requires a job of at least six months that matches the applicant's qualification; regulated professions need a licence in place or in prospect at visa application.",
+        "source": "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    },
+    {
+      "threshold_or_rule": "Official explainer (BAMF)",
+      "value": "BAMF points applicants to Make it in Germany for current Blue Card conditions; thresholds are reset annually",
+      "citation": {
+        "claim": "The Federal Office for Migration and Refugees describes the EU Blue Card as the residence permit for university graduates and specified experienced professionals from third countries and refers to make-it-in-germany.com for current requirements.",
+        "source": "https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/BlaueKarteEU/blauekarteeu-node.html",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    }
+  ],
+  "salary_benchmarks": [
+    {
+      "role_title": "Full-time employees, all sectors (Destatis 2025 mean)",
+      "market": "Germany",
+      "low": 33828.0,
+      "average": 64441.0,
+      "high": 100719.0,
+      "currency": "EUR",
+      "citation": {
+        "claim": "Destatis: 2025 mean gross annual earnings of full-time employees were €64,441 including special payments; the bottom decile earned €33,828 or less and the top decile €100,719 or more (median €54,066).",
+        "source": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/04/PD26_113_621.html",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    },
+    {
+      "role_title": "Full-time employees, all sectors (Destatis 2025 median)",
+      "market": "Germany",
+      "low": null,
+      "average": 54066.0,
+      "high": null,
+      "currency": "EUR",
+      "citation": {
+        "claim": "Destatis press release 1 April 2026: median gross annual earnings of full-time employees in 2025 were €54,066 including special payments.",
+        "source": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/04/PD26_113_621.html",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    },
+    {
+      "role_title": "Information and communication, full-time (Destatis 2025 mean)",
+      "market": "Germany",
+      "low": 66819.0,
+      "average": 86638.0,
+      "high": 88124.0,
+      "currency": "EUR",
+      "citation": {
+        "claim": "Destatis 2025 mean gross annual earnings in information and communication: Germany €86,638; former Federal territory €88,124; new Länder €66,819 (including special payments).",
+        "source": "https://www.destatis.de/EN/Themes/Labour/Earnings/Earnings-Earnings-Differences/Tables/yearly-gross-earnings.html",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    },
+    {
+      "role_title": "Professional, scientific and technical activities, full-time (Destatis 2025 mean)",
+      "market": "Germany",
+      "low": 62919.0,
+      "average": 83847.0,
+      "high": 86032.0,
+      "currency": "EUR",
+      "citation": {
+        "claim": "Destatis 2025 mean gross annual earnings in professional, scientific and technical activities: Germany €83,847; former Federal territory €86,032; new Länder €62,919.",
+        "source": "https://www.destatis.de/EN/Themes/Labour/Earnings/Earnings-Earnings-Differences/Tables/yearly-gross-earnings.html",
+        "confidence": "high",
+        "is_synthetic": false
+      }
+    },
+    {
+      "role_title": "ICT professionals, social-security full-time (BA 2025 median, annualised)",
+      "market": "Germany",
+      "low": 68292.0,
+      "average": 73368.0,
+      "high": 78012.0,
+      "currency": "EUR",
+      "citation": {
+        "claim": "Bundesagentur für Arbeit: 2025 median monthly gross pay for full-time ICT staff was €6,114 (West €6,190, East €5,691). Annualised here as 12 × monthly median (€73,368 / €74,280 / €68,292) for comparison with Blue Card annual thresholds — not a Destatis annual-earnings series.",
+        "source": "https://statistik.arbeitsagentur.de/DE/Statischer-Content/Statistiken/Themen-im-Fokus/Berufe/AkademikerInnen/Berufsgruppen/2-2-Informatik.html",
+        "confidence": "medium",
+        "is_synthetic": false
+      }
+    },
+    {
+      "role_title": "Illustrative Head of Operations total cash, Berlin scale-up (not a published series)",
+      "market": "Germany",
+      "low": 90000.0,
+      "average": 120000.0,
+      "high": 160000.0,
+      "currency": "EUR",
+      "citation": {
+        "claim": "Placeholder band for a Head of Operations / COO-track package at a Berlin or Munich scale-up. Destatis does not publish a Head of Operations series; this row exists to demonstrate the SYNTHETIC flag and must not be quoted as a market finding.",
+        "source": "SYNTHETIC — pipeline demo placeholder, not an official wage series",
+        "confidence": "low",
+        "is_synthetic": true
+      }
+    }
+  ],
+  "key_findings": [
+    {
+      "claim": "Germany's EU Blue Card under §18g AufenthG is the primary skilled-worker residence title for third-country academics; a qualifying job must last at least six months and match the applicant's qualification.",
+      "source": "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
+      "confidence": "high",
+      "is_synthetic": false
+    },
+    {
+      "claim": "Two-track implication: Product / ICT leadership is much more likely to fall in shortage ISCO groups 133 or 25 (reduced Blue Card threshold, BA approval) than a generic Head of Operations / COO title, which often maps to ISCO 1120 or 121 and therefore uses the standard threshold unless duties are manufacturing, supply, ICT-service or professional-services management.",
+      "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html",
+      "confidence": "high",
+      "is_synthetic": false
+    },
+    {
+      "claim": "The EU Blue Card in Germany is issued under Section 18g of the Residence Act.",
+      "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html",
+      "confidence": "high",
+      "is_synthetic": false
+    },
+    {
+      "claim": "As of 2026, a qualifying German job must pay a gross annual salary of at least €50,700 for the standard EU Blue Card.",
+      "source": "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
+      "confidence": "high",
+      "is_synthetic": false
+    },
+    {
+      "claim": "Destatis: 2025 mean gross annual earnings of full-time employees were €64,441 including special payments; the bottom decile earned €33,828 or less and the top decile €100,719 or more (median €54,066).",
+      "source": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/04/PD26_113_621.html",
+      "confidence": "high",
+      "is_synthetic": false
+    },
+    {
+      "claim": "German startups raised just under €8.4 billion in venture capital in 2025 across 716 publicly reported rounds, +19% versus 2024 by value but −5% by round count (EY Startup-Barometer 2026).",
+      "source": "https://www.ey.com/de_de/newsroom/2026/01/ey-startup-barometer-2026",
+      "confidence": "high",
+      "is_synthetic": false
+    }
+  ],
+  "caveats": [
+    "This seed brief reconstructs the Germany EU Blue Card research methodology from public government and named-research sources. It is not a copy of any private research memo and is not immigration, legal, or tax advice.",
+    "Germany does not use US-style H-1B 'sponsorship.' The employer issues a qualifying contract; the candidate applies for the EU Blue Card. 'Sponsorship signal' here means public evidence of international professional hiring, not a visa lottery.",
+    "Job-title ≠ ISCO code. A Head of Operations uses the reduced 2026 threshold (€45,934.20) only if duties fall in groups 132, 133 or 134 (or another listed group). A Product / ICT track is more often 133 or 25. Confirm classification with the employer and the Ausländerbehörde.",
+    "Salary rows are official sector or occupation aggregates except the one row tagged SYNTHETIC. They are not an offer, a COO pay survey, or Glassdoor/Payscale scrapes.",
+    "The 2026 Blue Card thresholds (€50,700 / €45,934.20) are reset annually in the Federal Gazette and on Make it in Germany. Re-check before any application.",
+    "EY (€8.4bn, 716 rounds) and KfW/Dealroom (€7.2bn, 1,444 deals) are different VC coverage methods. Do not average them.",
+    "Degree recognition (Anabin / ZAB) and regulated-profession licensing are out of scope of this run and can block an otherwise salary-qualified Blue Card.",
+    "Figures accessed September 2026. Re-run live with an API key and optional MCP search before relying on them in a live search process."
+  ],
+  "tam_or_demand": [
+    {
+      "claim": "Germany's EU Blue Card under §18g AufenthG is the primary skilled-worker residence title for third-country academics; a qualifying job must last at least six months and match the applicant's qualification.",
+      "source": "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
+      "confidence": "high",
+      "is_synthetic": false
+    },
+    {
+      "claim": "Two-track implication: Product / ICT leadership is much more likely to fall in shortage ISCO groups 133 or 25 (reduced Blue Card threshold, BA approval) than a generic Head of Operations / COO title, which often maps to ISCO 1120 or 121 and therefore uses the standard threshold unless duties are manufacturing, supply, ICT-service or professional-services management.",
+      "source": "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html",
+      "confidence": "high",
+      "is_synthetic": false
+    },
+    {
+      "claim": "Full-time ICT employees in Germany earned a median gross monthly salary of €6,114 in 2025 (West €6,190, East €5,691), above the all-occupation median of €4,448 — a public demand/pay signal for the Product/ICT track.",
+      "source": "https://statistik.arbeitsagentur.de/DE/Statischer-Content/Statistiken/Themen-im-Fokus/Berufe/AkademikerInnen/Berufsgruppen/2-2-Informatik.html",
+      "confidence": "high",
+      "is_synthetic": false
+    }
+  ],
+  "funding_landscape": [
+    {
+      "claim": "German startups raised just under €8.4 billion in venture capital in 2025 across 716 publicly reported rounds, +19% versus 2024 by value but −5% by round count (EY Startup-Barometer 2026).",
+      "source": "https://www.ey.com/de_de/newsroom/2026/01/ey-startup-barometer-2026",
+      "confidence": "high",
+      "is_synthetic": false
+    },
+    {
+      "claim": "KfW Research, using Dealroom coverage, puts 2025 German VC investment at €7.2 billion across 1,444 deals (vs €7.4 billion in 2024). Treat the EY and KfW totals as methodologically different series, not a disagreement about a single number.",
+      "source": "https://www.kfw.de/About-KfW/Newsroom/Latest-News/Pressemitteilungen-Details_876672.html",
+      "confidence": "high",
+      "is_synthetic": false
+    },
+    {
+      "claim": "EY attributes more than 70% of 2025 German VC value to Software & Analytics (~€2.7 billion), Energy, and Health (~€1.1 billion); Bavaria led Länder with €3.3 billion, ahead of Berlin at ~€2.7 billion.",
+      "source": "https://www.ey.com/de_de/newsroom/2026/01/ey-startup-barometer-2026",
+      "confidence": "medium",
+      "is_synthetic": false
+    },
+    {
+      "claim": "KfW reports a 2025 record for AI-related VC in Germany of about €2.9 billion, roughly two-fifths of its German VC total — relevant for Product-track hiring at AI-adopting scale-ups.",
+      "source": "https://www.kfw.de/About-KfW/Newsroom/Latest-News/Pressemitteilungen-Details_876672.html",
+      "confidence": "high",
+      "is_synthetic": false
+    }
+  ],
+  "run_mode": "offline"
+}
